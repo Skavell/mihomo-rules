@@ -6,3 +6,4 @@ payload:
   - DOMAIN-KEYWORD,psim
   - DOMAIN-KEYWORD,pokepast
   - DOMAIN-KEYWORD,hyperbeam
+  - PROCESS-NAME,Hyperbeam.exe
