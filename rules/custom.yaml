@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,pokepast
   - DOMAIN-KEYWORD,hyperbeam
   - PROCESS-NAME,Hyperbeam.exe
+  - DOMAIN-SUFFIX,pushbr.com
