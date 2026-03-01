@@ -8,3 +8,4 @@ payload:
   - DOMAIN-KEYWORD,hyperbeam
   - PROCESS-NAME,Hyperbeam.exe
   - DOMAIN-SUFFIX,pushbr.com
+  - DOMAIN-SUFFIX,cdntogo.net
