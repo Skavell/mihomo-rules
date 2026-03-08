@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,cdn2cdn.com
   - DOMAIN-SUFFIX,music.skavellion.lol
   - DOMAIN-KEYWORD,filezilla
+  - DOMAIN-SUFFIX,lrclib.net
