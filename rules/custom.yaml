@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,navidrome.org
   - DOMAIN-SUFFIX,sponsor.ajay.app
   - DOMAIN-SUFFIX,duckduckgo.com
+  - PROCESS-NAME,Antigravity.exe
