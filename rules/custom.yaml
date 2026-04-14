@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,navidrome.org
   - DOMAIN-SUFFIX,sponsor.ajay.app
   - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,revenuecat.com
   - PROCESS-NAME,Antigravity.exe
   - IP-CIDR,173.245.48.0/20
   - IP-CIDR,103.21.244.0/22
